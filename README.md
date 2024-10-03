@@ -1,2 +1,3 @@
 # SMX2_M8_UF1_A4_HidalgoJeanMichael
 ## Blink 
+Es motor de renderizado desarrollado por Google anunciado en abril de 2013, a partir de una biifurcación del proyecto WebKit. Es utilizados por varios navegadores. Chromium, Chrome, Opera, Brave, etc...
