@@ -1,3 +1,6 @@
 # SMX2_M8_UF1_A4_HidalgoJeanMichael
 ## Blink 
-Es motor de renderizado desarrollado por Google anunciado en abril de 2013, a partir de una biifurcación del proyecto WebKit. Es utilizados por varios navegadores. Chromium, Chrome, Opera, Brave, etc...
+
+**¿Cómo surgió Blink?
+Blink nació como una bifurcación (copia modificada) del componente WebCore de WebKit, otro motor de renderizado muy utilizado.
+Google decidió crear Blink para tener mayor flexibilidad y control sobre el deesarrollo de su navegador Chrome, ya que WebKit no se adaptaba del todo a sus necesidades. 
