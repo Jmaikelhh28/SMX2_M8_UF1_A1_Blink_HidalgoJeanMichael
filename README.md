@@ -21,6 +21,6 @@ Google decidió crear Blink para tener mayor flexibilidad y control sobre el dee
 
 ***Rendimiento:*** Blink es conocido por su velocidad y eficiencia en la renderización de páginas web.
 
-
 ***Innovación:*** Google y otros colaboradores están constantemente trabajando en nuevas características y mejoras para Blink.
+
 ***Compatibilidad:*** Blink es altamente compatible con los estándares web, lo que garantiza que las páginas web se muestren de manera consistente en diferentes navegadores.
